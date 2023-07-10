@@ -1,3 +1,24 @@
+# Youtube Clone
+<img src="/gif/youtube.gif"/>
+
+# YouTube Clone
+
+Bu, React ve ilgili kütüphaneleri kullanarak oluşturulmuş bir YouTube klonu projesidir. Bu proje, YouTube'un temel işlevlerini taklit etmek için tasarlanmış basit bir kullanıcı arayüzü sunar.
+
+# Özellikler
+Ana sayfa üzerinde popüler videoları gösterir.
+Videoları kategorilere göre filtreleme.
+Videoları arama.
+Videoları oynatma, duraklatma, ileri sarma ve geri sarma özellikleri.
+Beğenme ve beğenmeme işlemleri.
+Abone olma ve abonelikten çıkma.
+
+# Gereksinimler
+Projenin çalışması için aşağıdaki yazılımların yüklü olması gerekmektedir:
+- Node.js
+- npm (Node Package Manager)
+
+
 # Kütüphaneler
 
 - reacr-icons
